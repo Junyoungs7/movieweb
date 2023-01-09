@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/movieweb/static/js/main.247cc82a.js",
+    "main.js": "/movieweb/static/js/main.a3a8cb70.js",
     "index.html": "/movieweb/index.html",
-    "main.247cc82a.js.map": "/movieweb/static/js/main.247cc82a.js.map"
+    "main.a3a8cb70.js.map": "/movieweb/static/js/main.a3a8cb70.js.map"
   },
   "entrypoints": [
-    "static/js/main.247cc82a.js"
+    "static/js/main.a3a8cb70.js"
   ]
 }
